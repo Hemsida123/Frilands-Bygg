@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frilands-bygg-design.carlzzon121.chatgpt.site/sitemap.xml
